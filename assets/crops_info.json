@@ -1,0 +1,179 @@
+{
+    "plants": [
+      {
+        "name": "Mango",
+        "description": "Mango is a tropical fruit known for its sweet and juicy flavor.",
+        "optimalGrowingConditions": {
+          "temperature": "25°C - 35°C",
+          "soilType": "Well-drained soil",
+          "sunlight": "Full sun"
+        },
+        "plantingTips": [
+          "Plant mango seeds in a sunny location.",
+          "Water regularly, especially during the flowering and fruiting stages.",
+          "Prune trees to maintain shape and improve air circulation."
+        ],
+        "image":"assets/images/mango.png"
+      },
+      {
+        "name": "Tomato",
+        "description": "Tomato is a versatile fruit commonly used in various culinary dishes.",
+        "optimalGrowingConditions": {
+          "temperature": "18°C - 25°C",
+          "soilType": "Loamy soil",
+          "sunlight": "Full sun"
+        },
+        "plantingTips": [
+          "Start tomato seeds indoors before the last frost date.",
+          "Transplant seedlings into the garden after the soil has warmed.",
+          "Provide support for tomato plants to prevent them from sprawling."
+        ],
+        "image":"assets/images/tomato.png"
+      },
+      {
+        "name": "Ginger",
+        "description": "Ginger is a flavorful and aromatic spice with medicinal properties.",
+        "optimalGrowingConditions": {
+          "temperature": "20°C - 30°C",
+          "soilType": "Loamy, well-drained soil",
+          "sunlight": "Partial shade"
+        },
+        "plantingTips": [
+          "Plant ginger rhizomes in a shallow trench with the buds facing upward.",
+          "Keep the soil consistently moist but not waterlogged.",
+          "Harvest ginger roots when the leaves turn yellow and begin to die back."
+        ],
+        "image":"assets/images/turmeric.png"
+
+      },
+      {
+        "name": "Pepper",
+        "description": "Pepper, also known as bell pepper or capsicum, is a popular vegetable used in cooking.",
+        "optimalGrowingConditions": {
+          "temperature": "18°C - 25°C",
+          "soilType": "Well-drained, fertile soil",
+          "sunlight": "Full sun"
+        },
+        "plantingTips": [
+          "Start pepper seeds indoors 8-10 weeks before the last frost date.",
+          "Transplant seedlings into the garden after the soil has warmed.",
+          "Provide consistent moisture and support for pepper plants as they grow."
+        ],
+        "image":"assets/images/pepper.png"
+
+      },
+      {
+        "name": "Potato",
+        "description": "Potato is a starchy tuberous crop widely consumed around the world.",
+        "optimalGrowingConditions": {
+          "temperature": "15°C - 20°C",
+          "soilType": "Loamy, well-drained soil",
+          "sunlight": "Full sun"
+        },
+        "plantingTips": [
+          "Plant potato seed pieces in trenches or mounds spaced 12-15 inches apart.",
+          "Keep soil consistently moist but not waterlogged.",
+          "Hill soil around potato plants to prevent tubers from being exposed to sunlight."
+        ],
+        "image":"assets/images/potato.png"
+
+      },
+      {
+        "name": "Rice",
+        "description": "Rice is a staple food crop grown in flooded fields called paddies.",
+        "optimalGrowingConditions": {
+          "temperature": "25°C - 35°C",
+          "waterDepth": "2-5 inches",
+          "soilType": "Clayey soil",
+          "sunlight": "Full sun"
+        },
+        "plantingTips": [
+          "Prepare flooded fields for rice cultivation, ensuring uniform water depth.",
+          "Sow rice seeds directly into the flooded fields or transplant seedlings.",
+          "Manage water levels carefully throughout the growing season."
+        ],
+        "image":"assets/images/rice.png"
+      },
+      {
+        "name": "Wheat",
+        "description": "Wheat is a cereal grain widely cultivated for its nutritious seeds.",
+        "optimalGrowingConditions": {
+          "temperature": "10°C - 20°C",
+          "soilType": "Well-drained, loamy soil",
+          "sunlight": "Full sun"
+        },
+        "plantingTips": [
+          "Sow wheat seeds directly into prepared soil in the fall for winter wheat or in the spring for spring wheat.",
+          "Keep soil evenly moist but not waterlogged.",
+          "Harvest wheat when the grains are fully mature and dry."
+        ],
+        "image":"assets/images/wheat.png"
+
+      },
+      {
+        "name": "Litchi",
+        "description": "Litchi is a tropical fruit known for its sweet and fragrant taste.",
+        "optimalGrowingConditions": {
+          "temperature": "20°C - 30°C",
+          "soilType": "Well-drained, sandy soil",
+          "sunlight": "Full sun"
+        },
+        "plantingTips": [
+          "Plant litchi trees in a sunny location protected from strong winds.",
+          "Provide regular irrigation during the dry season.",
+          "Prune litchi trees to maintain shape and promote fruiting."
+        ],
+        "image":"assets/images/lychee.png"
+
+      },
+      {
+        "name": "Strawberry",
+        "description": "Strawberry is a delicious and nutritious fruit grown in temperate regions.",
+        "optimalGrowingConditions": {
+          "temperature": "15°C - 25°C",
+          "soilType": "Well-drained, fertile soil",
+          "sunlight": "Full sun to partial shade"
+        },
+        "plantingTips": [
+          "Plant strawberry runners or bare-root crowns in well-prepared soil.",
+          "Ensure good air circulation and soil drainage to prevent diseases.",
+          "Mulch around strawberry plants to suppress weeds and retain moisture."
+        ],
+        "image":"assets/images/strawberry.png"
+
+      },
+      {
+        "name": "Lettuce",
+        "description": "Lettuce is a leafy vegetable commonly used in salads and sandwiches.",
+        "optimalGrowingConditions": {
+          "temperature": "10°C - 20°C",
+          "soilType": "Loamy, well-drained soil",
+          "sunlight": "Partial shade"
+        },
+        "plantingTips": [
+          "Sow lettuce seeds directly into the garden or start seedlings indoors.",
+          "Keep soil consistently moist and provide shade in hot weather.",
+          "Harvest lettuce leaves when they reach the desired size."
+        ],
+        "image":"assets/images/lettuce.png"
+
+      },
+      {
+        "name": "Carrot",
+        "description": "Carrot is a root vegetable prized for its sweet and crunchy texture.",
+        "optimalGrowingConditions": {
+          "temperature": "15°C - 20°C",
+          "soilType": "Loamy, well-drained soil",
+          "sunlight": "Full sun"
+        },
+        "plantingTips": [
+          "Sow carrot seeds directly into loose, well-prepared soil.",
+          "Keep soil consistently moist but not waterlogged for germination.",
+          "Thin carrot seedlings to allow room for root development."
+        ],
+        "image":"assets/images/carrot.png"
+
+      }
+    ]
+  }
+  
